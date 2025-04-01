@@ -4,7 +4,8 @@ pobieranie danych z API i zapisywanie ich do pliku JSON
 ## instalacja
 
 ## przykłady komend:
-``` ./cli_fetcher
+```
+./cli_fetcher
 --fetch
 --url
 
