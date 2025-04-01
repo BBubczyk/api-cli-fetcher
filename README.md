@@ -6,5 +6,6 @@ pobieranie danych z API i zapisywanie ich do pliku JSON
 ## przykłady komend:
 ``` /cli_fetcher
 --fetch
---url ```
+--url
+
 
